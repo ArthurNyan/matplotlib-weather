@@ -3,7 +3,7 @@ from visualization import visualize_weather_data
 
 if __name__ == "__main__":
     # Задайте ваш API ключ и город
-    API_KEY = "5ed31e2a1f752172b8251d44d41cf669"
+    API_KEY = "ваш_ключ_API"
     CITY = "Saint Petersburg"
 
     try:
